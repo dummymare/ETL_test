@@ -1,0 +1,7 @@
+{
+    "server": "107.0.0.1",
+    "database": "inst_test",
+    "AuthType": "SQLserver",
+    "usersame": "sa",
+    "password": "wasd3695"
+}
