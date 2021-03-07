@@ -1,7 +1,7 @@
 {
-    "server": "107.0.0.1",
+    "server": "112.242.85.71",
     "database": "inst_test",
     "AuthType": "SQLserver",
-    "usersame": "sa",
+    "username": "sa",
     "password": "wasd3695"
 }
